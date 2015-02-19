@@ -1,0 +1,33 @@
+{
+  "name": "translate-utils",
+  "version": "1.0.0",
+  "homepage": "https://github.com/SonoIo/translate-utils",
+  "authors": [
+    "Inside a bit"
+  ],
+  "description": "Translate utils for browser",
+  "main": "lib/translate.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "translate",
+    "i18n",
+    "utils"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "underscore": "~1.7.0",
+    "underscore.string": "~3.0.3"
+  }
+}
