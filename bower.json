@@ -2,9 +2,6 @@
   "name": "translate-utils",
   "version": "1.0.1",
   "homepage": "https://github.com/SonoIo/translate-utils",
-  "authors": [
-    "Inside a bit"
-  ],
   "description": "Translate utils for browser",
   "main": "lib/translate.js",
   "moduleType": [
