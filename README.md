@@ -37,6 +37,8 @@ translate.on('change:locale', function (newLocale) {
 });
 ```
 
+setLocale() changes the `lang` property of the `html` tag with the `newLocale`.
+
 ## __(msg [, ...])
 
 Returns translated string matched in the *default* namespace. From the second argument it works like `sprintf`.

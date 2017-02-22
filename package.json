@@ -1,6 +1,6 @@
 {
   "name": "translate-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Translate utils for browser",
   "main": "lib/translate.js",
   "scripts": {
@@ -16,10 +16,10 @@
     "utils"
   ],
   "contributors": [
-    { "name" : "Matteo Baggio", 
+    { "name" : "Matteo Baggio",
       "email" : "matteo.baggio@gmail.com"
     },
-    { "name" : "Michele Belluco", 
+    { "name" : "Michele Belluco",
       "email" : "michele@belluco.info"
     }
   ],
